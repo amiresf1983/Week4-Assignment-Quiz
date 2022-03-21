@@ -29,13 +29,3 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN they can save initials and score
-```
-
-
-
-
-
-
-
-
-
